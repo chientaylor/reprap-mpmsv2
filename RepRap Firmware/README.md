@@ -2,7 +2,7 @@
 
 https://configtool.reprapfirmware.org/
 
-**Note: Apparently, different MPMSV2 Printers will have their motors in different orientations. Check before you try anything.
+**Note: Apparently, different MPMSV2 Printers will have their motors in different orientations. Check before you try anything.**
 
 ## Relavent Settings
 
